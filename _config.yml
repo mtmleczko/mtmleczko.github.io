@@ -1,3 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes"
+
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+
 plugins:
   - jekyll-include-cache
