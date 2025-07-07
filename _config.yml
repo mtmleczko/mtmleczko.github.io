@@ -5,16 +5,18 @@ collections:
     output: true
     permalink: /:title/
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Optional: but should not break things
 defaults:
   - scope:
       path: ""
     values:
-      header:
-        nav: 
-          - title: "Home"
-            url: /
-          - title: "About"
-            url: /about/
+      layout: single
 
-plugins:
-  - jekyll-include-cache
+# Optional nav config (usually auto-detected, but can force it)
+header:
+  nav: true
