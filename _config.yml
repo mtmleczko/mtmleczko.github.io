@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 collections:
   pages:
@@ -6,9 +6,7 @@ collections:
     permalink: /:title/
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-include-cache
 
 # Optional: but should not break things
 defaults:
