@@ -5,9 +5,16 @@ collections:
     output: true
     permalink: /:title/
 
-header:
-  nav: 
-    - _data/navigation.yml
+defaults:
+  - scope:
+      path: ""
+    values:
+      header:
+        nav: 
+          - title: "Home"
+            url: /
+          - title: "About"
+            url: /about/
 
 plugins:
   - jekyll-include-cache
