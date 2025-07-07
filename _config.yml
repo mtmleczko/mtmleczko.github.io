@@ -5,5 +5,9 @@ collections:
     output: true
     permalink: /:title/
 
+header:
+  nav: 
+    - _data/navigation.yml
+
 plugins:
   - jekyll-include-cache
