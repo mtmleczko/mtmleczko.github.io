@@ -1,5 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
+title: Matt Mleczko
+
 collections:
   pages:
     output: true
@@ -18,3 +20,7 @@ defaults:
 # Optional nav config (usually auto-detected, but can force it)
 header:
   nav: true
+
+footer:
+  links: []
+
