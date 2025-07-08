@@ -3,10 +3,10 @@
 
 @import "minimal-mistakes";  // Load the base theme
 
-/* 📸 Style the avatar image */
 .author__avatar img {
-  width: 320px !important;
-  height: 300px !important;
+  width: 200px !important;
+  height: 200px !important;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 50%;
   display: block;
