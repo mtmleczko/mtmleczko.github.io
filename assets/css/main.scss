@@ -1,8 +1,10 @@
 ---
 ---
 
+@import "minimal-mistakes";  // Load the full theme first
+
+/* Now add your custom styles below */
 .author__avatar img {
   width: 150px;
   height: 150px;
 }
-
