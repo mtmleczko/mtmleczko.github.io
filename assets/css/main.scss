@@ -12,8 +12,6 @@
   display: block;
   margin: 0 auto;
   overflow: hidden;
-  transition: none !important;
-  cursor: default !important;
   filter: none !important;
 }
 
@@ -22,16 +20,6 @@
   filter: none !important;
   transition: none !important;
   cursor: default !important;
-}
-
-html body .sidebar .author__avatar img:hover {
-  all: unset !important;
-  display: block;
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 50%;
-  cursor: default;
 }
 
 .author__avatar {
