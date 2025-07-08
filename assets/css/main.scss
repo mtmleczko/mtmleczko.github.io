@@ -11,12 +11,17 @@
   border-radius: 50%;
   display: block;
   margin: 0 auto;
+  overflow: hidden;
 }
 
-/* 📦 Ensure the avatar container isn’t limiting layout */
+
 .author__avatar {
-  width: auto;
-  height: auto;
-  max-width: none;
-  max-height: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
 }
+
