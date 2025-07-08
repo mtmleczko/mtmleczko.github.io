@@ -12,12 +12,14 @@
   display: block;
   margin: 0 auto;
   overflow: hidden;
+  filter: none !important;
 }
 
-.author__avatar img:hover {
+.author__avatar img:hover,
+.author__avatar a img:hover {
   filter: none !important;
   transition: none !important;
-  cursor: default;
+  cursor: default !important;
 }
 
 .author__avatar {
