@@ -5,6 +5,9 @@
 
 /* Now add your custom styles below */
 .author__avatar img {
-  width: 400px;
-  height: 400px;
+  width: 400px !important;
+  height: 400px !important;
+  max-width: none;
+  object-fit: cover;
 }
+
