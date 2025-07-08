@@ -16,6 +16,7 @@ defaults:
       path: ""
     values:
       layout: single
+      sidebar: true
 
 # Optional nav config (usually auto-detected, but can force it)
 header:
