@@ -1,7 +1,8 @@
 ---
 layout: home
 title: Welcome
-author_profile: false
+sidebar: true
+author_profile: true
 show_excerpts: false
 entries_layout: none
 ---
