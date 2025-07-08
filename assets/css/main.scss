@@ -14,6 +14,11 @@
   overflow: hidden;
 }
 
+.author__avatar img:hover {
+  filter: none !important;
+  transition: none !important;
+  cursor: default;
+}
 
 .author__avatar {
   display: flex;
