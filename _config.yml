@@ -30,4 +30,8 @@ author:
   avatar    : /assets/images/Mleczko_headshot.jpg
   bio       : "TBD"
 
+sass:
+  style: compressed
+
+
 
