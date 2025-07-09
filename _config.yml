@@ -24,7 +24,7 @@ defaults:
     values:
       layout: single
       sidebar:
-        image: /assets/images/sidebar-image.jpg
+        image: /assets/images/Mleczko_headshot_cr.jpg
         title: ""
         text: ""
 
