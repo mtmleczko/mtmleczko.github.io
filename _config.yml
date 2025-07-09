@@ -21,6 +21,11 @@ sidebar:
   enabled: true
   nav: null
 
+author:
+  name: ""
+  avatar: ""
+  bio: ""
+
 sass:
   style: compressed
 
