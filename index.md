@@ -2,7 +2,7 @@
 layout: home
 title: Welcome
 sidebar:
-  - image: "/assets/images/Mleczko_headshot_cr.jpg"  # Replace with the path to your image
+  image: "/assets/images/Mleczko_headshot_cr.jpg"  
 author_profile: true
 show_excerpts: false
 entries_layout: none
