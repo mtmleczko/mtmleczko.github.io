@@ -26,9 +26,9 @@ footer:
   links: []
 
 author:
-  name      : Matt Mleczko
+  name      : ""
   avatar    : /assets/images/Mleczko_headshot_cr.jpg
-  bio       : "TBD"
+  bio       : ""
 
 sass:
   style: compressed
