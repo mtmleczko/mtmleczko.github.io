@@ -1,8 +1,9 @@
 ---
 layout: home
 title: Welcome
-sidebar: true
-author_profile: true
+sidebar:
+  - image: "/assets/images/Mleczko_headshot_cr.jpg"  # Replace with the path to your image
+author_profile: false
 show_excerpts: false
 entries_layout: none
 ---
