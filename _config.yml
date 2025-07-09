@@ -17,14 +17,16 @@ header:
 footer:
   links: []
 
-sidebar:
-  enabled: true
-  nav: null
-
-author:
-  name: ""
-  avatar: ""
-  bio: ""
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        image: /assets/images/sidebar-image.jpg
+        title: ""
+        text: ""
 
 sass:
   style: compressed
