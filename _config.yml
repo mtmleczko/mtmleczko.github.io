@@ -16,7 +16,7 @@ defaults:
       path: ""
     values:
       layout: single
-      sidebar: true
+      sidebar: false
 
 # Optional nav config (usually auto-detected, but can force it)
 header:
@@ -24,11 +24,6 @@ header:
 
 footer:
   links: []
-
-author:
-  name      : ""
-  avatar    : /assets/images/Mleczko_headshot_cr.jpg
-  bio       : ""
 
 sass:
   style: compressed
