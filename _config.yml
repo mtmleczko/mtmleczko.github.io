@@ -27,11 +27,10 @@ footer:
 
 author:
   name      : ""
-  avatar    : ""
+  avatar    : /assets/images/Mleczko_headshot_cr.jpg
   bio       : ""
 
 sass:
   style: compressed
-
 
 
