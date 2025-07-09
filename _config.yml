@@ -10,20 +10,16 @@ collections:
 plugins:
   - jekyll-include-cache
 
-# Optional: but should not break things
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: single
-      sidebar: true
-
 # Optional nav config (usually auto-detected, but can force it)
 header:
   nav: true
 
 footer:
   links: []
+
+sidebar:
+  enabled: true
+  nav: null
 
 sass:
   style: compressed
