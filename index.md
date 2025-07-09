@@ -2,7 +2,7 @@
 layout: home
 title: Welcome
 sidebar: true
-author_profile: false
+author_profile: true
 show_excerpts: false
 entries_layout: none
 ---
