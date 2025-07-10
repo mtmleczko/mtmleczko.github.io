@@ -22,20 +22,11 @@
   max-width: 200px;
 }
 
-.author__avatar img:hover,
-.author__avatar a img:hover {
-  filter: none !important;
+.sidebar img {
+  opacity: 1 !important;
   transition: none !important;
-  cursor: default !important;
 }
 
-.author__avatar {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  overflow: hidden;
-}
+
+
 
