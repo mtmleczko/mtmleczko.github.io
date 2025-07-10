@@ -26,3 +26,12 @@
   filter: none !important;
   transition: none !important;
 }
+
+.author__avatar:hover img,
+.sidebar .author__avatar:hover img,
+.sidebar img:hover {
+  filter: none !important;
+  opacity: 1 !important;
+  transition: none !important;
+}
+
