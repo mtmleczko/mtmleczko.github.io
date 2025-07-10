@@ -22,9 +22,11 @@
   max-width: 200px;
 }
 
+.sidebar .author__avatar img,
 .sidebar img {
   opacity: 1 !important;
   transition: none !important;
+  filter: none !important;
 }
 
 
