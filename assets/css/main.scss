@@ -20,14 +20,14 @@
   margin: 0 auto;
   border-radius: 8px;
   max-width: 200px;
+  opacity: 1 !important;
+  filter: none !important;
+  transition: none !important;
 }
 
-.sidebar .author__avatar img,
-.sidebar img {
-  opacity: 1 !important;
-  transition: none !important;
-  filter: none !important;
-}
+
+
+
 
 
 
