@@ -1,0 +1,28 @@
+
+.author__avatar img {
+  width: 200px !important;
+  height: 200px !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  overflow: hidden;
+  filter: none !important;
+}
+
+.sidebar img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  max-width: 200px;
+  opacity: 1 !important;
+  filter: none !important;
+  transition: none !important;
+}
+
+.sidebar img:hover {
+  opacity: 1 !important;
+  filter: none !important;
+  transition: none !important;
+}
