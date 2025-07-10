@@ -4,13 +4,9 @@
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   <!-- SIDEBAR: Avatar Only -->
-  {% if page.sidebar %}
+  {% if page.sidebar and page.sidebar.image %}
     <div class="sidebar sticky">
-      {% for s in page.sidebar %}
-        {% if author.avatar %}
-          <img src="{{ author.avatar | relative_url }}" alt="">
-        {% endif %}
-      {% endfor %}
+      <img src="{{ page.sidebar.image | relative_url }}" alt="">
     </div>
   {% endif %}
   </div>
