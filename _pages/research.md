@@ -20,7 +20,7 @@ nav_exclude: true
   - See [interactive integration map](https://mmleczko.shinyapps.io/intmap/) using data from this study
   - See replication data and programs [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SG7IOH)
 
-- Mleczko, Matthew and Matthew Desmond. 2023. [“Using Natural Language Processing to Construct a National Zoning and Land Use Database.](https://journals.sagepub.com/doi/10.1177/00420980231156352) *Urban Studies*. doi: 10.1177/00420980231156352
+- Mleczko, Matthew and Matthew Desmond. 2023. [“Using Natural Language Processing to Construct a National Zoning and Land Use Database."](https://journals.sagepub.com/doi/10.1177/00420980231156352) *Urban Studies*. doi: 10.1177/00420980231156352
   - *Urban Studies* 2023 Best Article Shortlist
   - See replication data and programs [here](https://github.com/mtmleczko/nzlud)
  
