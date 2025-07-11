@@ -9,7 +9,7 @@ Founder, [Princeton GROWS](https://princetongrows.com) <br>
 Invited Member, [Great Homes and Neighborhoods For All](https://www.njfuture.org/issues/development/great-neighborhoods-for-all/) Steering Committee, New Jersey Future, 2023 - Present <br>
 Collaborator, [Princeton Affordable Housing Map](https://sites.google.com/view/princetonaffordablehousingproj/home), 2021 - Present <br>
 
-[Butler Tract Community Land Trust Proposal](https://projects.dailyprincetonian.com/princeton-butler-tract-housing-justice/), Author and Organizer, with the following presentations:
+Author and Organizer, [Butler Tract Community Land Trust Proposal](https://projects.dailyprincetonian.com/princeton-butler-tract-housing-justice/); presentations below:
 - Backstory with Joan Goldstein, February 24, 2023.
 - Princeton University Service Focus Program, November 15, 2022; November 3, 2023; April 9, 2024.
 - Princeton University Chapter of the National Organization of Minority Architecture Students (NO-
