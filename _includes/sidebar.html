@@ -12,15 +12,15 @@
         {% endif %}
 
         {% if page.sidebar.title %}
-          <p><strong>Title:</strong> {{ page.sidebar.title }}</p>
+          <p>{{ page.sidebar.title }}</p>
         {% endif %}
 
         {% if page.sidebar.employer %}
-          <p><strong>Institution:</strong> {{ page.sidebar.employer }}</p>
+          <p>{{ page.sidebar.employer }}</p>
         {% endif %}
 
         {% if page.sidebar.email %}
-          <p><strong>Email:</strong> <a href="mailto:{{ page.sidebar.email }}">{{ page.sidebar.email }}</a></p>
+          <p> <a href="mailto:{{ page.sidebar.email }}">{{ page.sidebar.email }}</a></p>
         {% endif %}
       </div>
     {% endif %}
