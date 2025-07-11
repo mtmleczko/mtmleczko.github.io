@@ -2,6 +2,7 @@
 layout: single
 title: "Research"
 permalink: /research/
+nav_exclude: true
 ---
 
 I study x, y, and z
