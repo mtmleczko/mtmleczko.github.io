@@ -97,3 +97,11 @@
     }
   }
 }
+
+/* Hide empty author containers */
+.author__avatar:empty,
+.author__content:empty,
+.author__urls-wrapper:empty {
+  display: none;
+}
+
