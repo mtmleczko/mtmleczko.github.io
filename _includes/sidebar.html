@@ -1,13 +1,28 @@
-<!-- TEST OVERRIDE WORKING -->
-
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  <!-- SIDEBAR: Avatar Only -->
-  {% if page.sidebar and page.sidebar.image %}
-    <div class="sidebar sticky">
-      <img src="{{ page.sidebar.image | relative_url }}" alt="">
-    </div>
-  {% endif %}
+    {% if page.author_profile or layout.author_profile %}
+      {% include author-profile.html %}
+    {% endif %}
+
+    <!-- SIDEBAR: Avatar and Info -->
+    {% if page.sidebar %}
+      <div class="sidebar-content">
+        {% if page.sidebar.image %}
+          <img src="{{ page.sidebar.image | relative_url }}" alt="">
+        {% endif %}
+
+        {% if page.sidebar.title %}
+          <p><strong>Title:</strong> {{ page.sidebar.title }}</p>
+        {% endif %}
+
+        {% if page.sidebar.employer %}
+          <p><strong>Institution:</strong> {{ page.sidebar.employer }}</p>
+        {% endif %}
+
+        {% if page.sidebar.email %}
+          <p><strong>Email:</strong> <a href="mailto:{{ page.sidebar.email }}">{{ page.sidebar.email }}</a></p>
+        {% endif %}
+      </div>
+    {% endif %}
   </div>
 {% endif %}
