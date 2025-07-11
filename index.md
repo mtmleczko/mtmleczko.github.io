@@ -1,12 +1,12 @@
 ---
-layout: home
+layout: single
 title: Welcome
 sidebar:
-  image: "/assets/images/Mleczko_headshot_cr.jpg"  
-  nav: null
+  image: "/assets/images/Mleczko_headshot_cr.jpg"
+  title: Assistant Professor
+  employer: Marquette University, Department of Political Science
+  email: matthew.mleczko@marquette.edu
 author_profile: true
-show_excerpts: false
-entries_layout: none
 ---
 
 I am an incoming Assistant Professor in the Marquette University Department of Political Science. I study integration, housing politics and policy, poverty, and inequality, focusing on the role of housing policies and practices in fostering equitably integrated communities. Prior to my appointment at Marquette University, I served as a Post-Doctoral Associate in the Ralph W. Voorhees Center for Civic Engagement and the Center for State Health Policy at Rutgers University. I received my Ph.D. in Population Studies and Social Policy from Princeton University in 2024 and my B.A. in Economics and Political Science from the University of Notre Dame in 2015. 
