@@ -5,6 +5,10 @@ permalink: /research/
 nav_exclude: true
 ---
 
+## CV
+[Mleczko_CV](https://mtmleczko.github.io/assets/cv/Mleczko_CV.pdf)
+
+
 ## Publications
 
 - Mleczko, Matthew. “The Cumulative Exposure to Exclusionary Zoning in Impoverished Neighborhoods.”
@@ -29,7 +33,7 @@ Housing Policy.”
 
 ## Works in Progress
 
-“Address-level Analysis of Integration Trends, 2000-2020” with Laura Sullivan.
+“Address-Level Analysis of Integration Trends, 2000-2020” with Laura Sullivan.
 
 "Does Welcoming America Programming Promote Refugee Integration?" with Gabby Toborg.
 
