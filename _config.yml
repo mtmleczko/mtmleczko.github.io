@@ -31,6 +31,10 @@ defaults:
     values:
       sidebar:
         image: /assets/images/Mleczko_headshot_cr.jpg
+        info:
+          title: Assistant Professor, Department of Political Science
+          employer: Marquette University 
+          email: matthew.mleczko@marquette.edu
 
 sass:
   style: compressed
