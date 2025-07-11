@@ -23,6 +23,7 @@ defaults:
       type: pages
     values:
       layout: single
+      nav_exclude: true
 
   - scope:
       path: "index.md"  # adjust this if your homepage file has a different name or location
