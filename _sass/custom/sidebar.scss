@@ -105,3 +105,16 @@
   display: none;
 }
 
+.sidebar .author__avatar,
+.sidebar .author__content {
+  display: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
+}
+
+.sidebar .author__urls-wrapper {
+  display: none !important;
+}
+
+
