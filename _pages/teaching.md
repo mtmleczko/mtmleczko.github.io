@@ -4,14 +4,17 @@ title: "Teaching"
 permalink: /teaching/
 ---
 **Marquette University**
-POSC 3202 Quantitative Data Analysis for Social Science, Fall 2025
+
+POSC 3202 Quantitative Data Analysis for Social Science, Fall 2025  
 POSC 4299 Topics in American Politics: Housing Politics and Policy, Fall 2025
 
 **Rutgers University**
+
 Social Determinants of Health, Spring 2025
 Instructor, Edward J. Bloustein School of Planning and Public Policy
 
 **Princeton University**
+
 Race and Housing in Princeton: Yesterday and Today, Wintersession 2021
 Co-Facilitator, School of Public and International Affairs and School of Architecture
 
