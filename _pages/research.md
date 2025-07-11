@@ -14,11 +14,11 @@ nav_exclude: true
 2000–2020.”](https://journals.sagepub.com/doi/10.1177/10780874241278619) *Urban Affairs Review*, September, 10780874241278619. https://doi.org/10.1177/10780874241278619.
   - *Urban Affairs Review* [blog post](https://www.urbanaffairsreview.com/uar-archive/trends-and-characteristics)
   - See [interactive integration map](https://mmleczko.shinyapps.io/intmap/) using data from this study
-  - See replication data/programs [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SG7IOH)
+  - See replication data and programs [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SG7IOH)
 
 - Mleczko, Matthew and Matthew Desmond. 2023. [“Using Natural Language Processing to Construct a National Zoning and Land Use Database.](https://journals.sagepub.com/doi/10.1177/00420980231156352) *Urban Studies*. doi: 10.1177/00420980231156352
   - *Urban Studies* 2023 Best Article Shortlist
-  - See replication data/programs [here](https://github.com/mtmleczko/nzlud)
+  - See replication data and programs [here](https://github.com/mtmleczko/nzlud)
  
 ## Manuscripts Under Review
 
@@ -29,7 +29,9 @@ Housing Policy.”
 
 ## Works in Progress
 
-“Address-level analysis of integration trends, 2000-2020” with Laura Sullivan.
+“Address-level Analysis of Integration Trends, 2000-2020” with Laura Sullivan.
+
+"Does Welcoming America Programming Promote Refugee Integration?" with Gabby Toborg.
 
 Mleczko, Matthew. “The Role of Residential Integration in Promoting Successful School Integration.”
 
