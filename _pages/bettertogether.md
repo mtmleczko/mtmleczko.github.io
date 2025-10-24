@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Better Together
-permalink: /bettertogether/
+title: Blog
+permalink: /blog/
 ---
-
 <ul>
   {% for post in site.posts %}
     <li>
@@ -11,5 +10,3 @@ permalink: /bettertogether/
     </li>
   {% endfor %}
 </ul>
-``
-
