@@ -3,6 +3,7 @@ layout: page
 title: Better Together
 permalink: /bettertogether/
 ---
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -10,3 +11,5 @@ permalink: /bettertogether/
     </li>
   {% endfor %}
 </ul>
+``
+
