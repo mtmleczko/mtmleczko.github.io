@@ -4,8 +4,7 @@ title: Better Together
 permalink: /bettertogether/blog/
 ---
 
-<h2>Better Together</h2>
-<p>Welcome to <strong>Better Together</strong>, TBD. 
+<p>Welcome to <strong>Better Together</strong>, TBD.</p>
 <hr>
 
 <ul class="post-list">
