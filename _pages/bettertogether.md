@@ -5,8 +5,7 @@ permalink: /bettertogether/blog/
 ---
 
 <h2>Better Together</h2>
-<p>Welcome to <strong>Better Together</strong>, TBD. Check back regularly or /bettertogether/newsletter/subscribe</a> to get updates!</p>
-
+<p>Welcome to <strong>Better Together</strong>, TBD. 
 <hr>
 
 <ul class="post-list">
