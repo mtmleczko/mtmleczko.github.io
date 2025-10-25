@@ -9,7 +9,7 @@ permalink: /bettertogether/blog/
 <hr>
 
 <ul class="post-list">
-  {% for post in site.posts %}
+  {% for post in site.blog %}
     <li>
       <h3>{{ post.url | relative_url }}{{ post.title }}</a></h3>
       <p><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
