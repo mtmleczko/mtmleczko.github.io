@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /bettertogether/
+title: Better Together
+permalink: /bettertogether/blog/
 ---
 <ul>
   {% for post in site.posts %}
