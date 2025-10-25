@@ -6,8 +6,6 @@ collections:
   pages:
     output: true
     permalink: /:title/
-
-collections:
   blog:
     output: true
     permalink: /bettertogether/blog/:title/
