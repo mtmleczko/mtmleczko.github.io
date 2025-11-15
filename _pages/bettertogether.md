@@ -1,6 +1,6 @@
 ---
 title: "Better Together" 
-layout: archive
+layout: home
 permalink: /bettertogether/
 author_profile: false
 ---
