@@ -13,6 +13,9 @@ collections:
 plugins:
   - jekyll-include-cache
 
+paginate: 5
+paginate_path: /page:num/
+
 # Optional nav config (usually auto-detected, but can force it)
 header:
   nav: true
