@@ -9,6 +9,8 @@ collections:
   blog:
     output: true
     permalink: /bettertogether/blog/:title/
+  posts: 
+    output: true
 
 plugins:
   - jekyll-include-cache
