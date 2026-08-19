@@ -2,7 +2,7 @@
 layout: single
 title: Welcome
 sidebar:
-  image: "/assets/images/Mleczko_headshot_cr.jpg"
+  image: "/assets/images/2026_Matt_Mleczko_H-1.jpg"
   title: Assistant Professor
   employer: Marquette University, Department of Political Science
   email: matthew.mleczko@marquette.edu
