@@ -6,7 +6,7 @@ nav_exclude: true
 ---
 
 ## CV
-[Mleczko_CV](https://mtmleczko.github.io/assets/cv/Mleczko_CV.pdf)
+[Mleczko_CV_web](https://mtmleczko.github.io/assets/cv/Mleczko_CV.pdf)
 
 
 ## Publications
