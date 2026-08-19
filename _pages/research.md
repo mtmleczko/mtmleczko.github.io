@@ -11,8 +11,10 @@ nav_exclude: true
 
 ## Publications
 
+- Mleczko, Matthew, Parker, Emily, and Tach, Laura. "How do LIHTC and Other Federal Place-Based Policies Shape Neighborhood Establishments?" *Housing Policy Debate*. Forthcoming.
+- 
 - Mleczko, Matthew. “The Cumulative Exposure to Exclusionary Zoning in Impoverished Neighborhoods.”
-*Demography*. Forthcoming.
+*Demography* 63 (1): 213–39. [here](https://doi.org/10.1215/00703370-12468457).
 
 - Mleczko, Matthew. 2024. [“Trends and Characteristics of U.S. Metropolitan Neighborhood Integration,
 2000–2020.”](https://journals.sagepub.com/doi/10.1177/10780874241278619) *Urban Affairs Review*, September, 10780874241278619. https://doi.org/10.1177/10780874241278619.
@@ -26,12 +28,13 @@ nav_exclude: true
  
 ## Manuscripts Under Review
 
+- Mleczko, Matthew. “The Role of Housing Navigation in Promoting Housing Stability.”
+  
 - Mleczko, Matthew. “A Virtuous Cycle? Fair Housing and the Promotion of Long-Term Residential Integration.”
 
-- Mleczko, Matthew. “Back to the Future: A History of Housing Navigation and Lessons for More Equitable
-Housing Policy.”
-
 ## Works in Progress
+
+Principal Investigator, Milwaukee-Area Neighborhood Engagement Study (MANES) 
 
 “Address-Level Analysis of Integration Trends, 2000-2020” with Laura Sullivan.
 
