@@ -5,10 +5,13 @@ permalink: /teaching/
 ---
 **Marquette University**
 
-POSC 3202 Quantitative Data Analysis for Social Science, Fall 2025 <br> 
+POSC 4283/4299/5299 Housing Politics and Policy, <br>
 Instructor, Department of Political Science
 
-POSC 4299 Topics in American Politics: Housing Politics and Policy, Fall 2025 <br>
+POSC 3202 Quantitative Data Analysis for Social Science, <br> 
+Instructor, Department of Political Science
+
+POSC 6102 Advanced Research Methods, <br>
 Instructor, Department of Political Science
 
 **Rutgers University**
