@@ -13,8 +13,8 @@ nav_exclude: true
 
 - Mleczko, Matthew, Parker, Emily, and Tach, Laura. "How do LIHTC and Other Federal Place-Based Policies Shape Neighborhood Establishments?" *Housing Policy Debate*. Forthcoming.
   
-- Mleczko, Matthew. “The Cumulative Exposure to Exclusionary Zoning in Impoverished Neighborhoods.”
-*Demography* 63 (1): 213–39. [here](https://doi.org/10.1215/00703370-12468457).
+- Mleczko, Matthew. [“The Cumulative Exposure to Exclusionary Zoning in Impoverished Neighborhoods.”](https://doi.org/10.1215/00703370-12468457)
+*Demography* 63 (1): 213–39. https://doi.org/10.1215/00703370-12468457.
 
 - Mleczko, Matthew. 2024. [“Trends and Characteristics of U.S. Metropolitan Neighborhood Integration,
 2000–2020.”](https://journals.sagepub.com/doi/10.1177/10780874241278619) *Urban Affairs Review*, September, 10780874241278619. https://doi.org/10.1177/10780874241278619.
